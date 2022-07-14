@@ -1,0 +1,17 @@
+<div class="text-box-wrapper">
+  <span>
+    <label class="gift-note"  for="gift-note">Hand-written Gift Note
+      <span id=charcount style="margin-left: 10px;"></span>
+    </label>
+  </span>
+  <textarea onkeyup="charcountupdate(this.value)" id="gift-note"  maxlength="250" name="properties[Gift Note]">
+  </textarea>
+</div>
+  
+<script>
+  function charcountupdate(str) {
+    var lng = str.length;
+    document.getElementById("charcount").innerHTML = lng + ' | 250';
+  console.log('character count JS');
+}
+</script>
