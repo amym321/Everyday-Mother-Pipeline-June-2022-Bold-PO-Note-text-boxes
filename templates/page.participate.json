@@ -278,7 +278,7 @@
         "9e7182aa-3a21-451f-83ac-550a6fba1251"
       ],
       "settings": {
-        "height": "use_screen_one_half",
+        "height": "image-height",
         "padding": true,
         "borders": false,
         "wrapper": false
