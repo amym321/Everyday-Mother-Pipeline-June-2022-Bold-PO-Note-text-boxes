@@ -233,13 +233,64 @@
         "aspect_ratio": 1
       }
     },
+    "165721225089e23527": {
+      "type": "section-custom-content",
+      "blocks": {
+        "a9b8c116-ccd1-4cbc-a7bf-3fbddebbbd9d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Blank-Everyday-Mother-Design-Contest-Book-Cover.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "DOWNLOAD SUBMISSION KIT",
+            "link": "",
+            "button_color": "btn--primary",
+            "button_style": "btn uppercase"
+          }
+        },
+        "9e7182aa-3a21-451f-83ac-550a6fba1251": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "VIEW PAST WINNERS",
+            "link": "shopify:\/\/pages\/our-artists",
+            "button_color": "btn--primary",
+            "button_style": "btn uppercase"
+          }
+        }
+      },
+      "block_order": [
+        "a9b8c116-ccd1-4cbc-a7bf-3fbddebbbd9d",
+        "9e7182aa-3a21-451f-83ac-550a6fba1251"
+      ],
+      "settings": {
+        "height": "use_screen_one_half",
+        "padding": true,
+        "borders": false,
+        "wrapper": false
+      }
+    },
     "165721210065838906": {
       "type": "section-announcement",
       "blocks": {
         "1657212100807664aa-0": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Submit by February 1st<\/strong> | download submission kit<\/p>"
+            "text": "<p><strong>Submit by August 15th<\/strong> | <a href=\"https:\/\/www.dropbox.com\/sh\/jb8c6315zvd3ut1\/AABcin3KyHNCZVilIuv9OcB5a?dl=0\" target=\"_blank\" title=\"https:\/\/www.dropbox.com\/sh\/jb8c6315zvd3ut1\/AABcin3KyHNCZVilIuv9OcB5a?dl=0\">download submission kit<\/a><\/p>"
           }
         },
         "284352fd-9da4-4630-8963-7641a0ab7291": {
@@ -254,40 +305,9 @@
         "284352fd-9da4-4630-8963-7641a0ab7291"
       ],
       "settings": {
-        "bg_color": "#f7f7f7",
-        "color": "#545454",
+        "bg_color": "#f1b760",
+        "color": "#ffffff",
         "text_size": 7
-      }
-    },
-    "165721225089e23527": {
-      "type": "section-custom-content",
-      "blocks": {
-        "2ba3a552-4653-4640-9b63-e35f6d19eab3": {
-          "type": "text",
-          "settings": {
-            "kicker": "",
-            "title": "",
-            "text": "",
-            "text_size": 2,
-            "text_columns": 1,
-            "align_text": "text-center",
-            "button_text": "VIEW PAST WINNERS",
-            "button_url": "shopify:\/\/pages\/our-artists",
-            "button_color": "btn--primary",
-            "button_style": "caps--link",
-            "text_color": "text--neutral",
-            "bg_color": "#ffffff"
-          }
-        }
-      },
-      "block_order": [
-        "2ba3a552-4653-4640-9b63-e35f6d19eab3"
-      ],
-      "settings": {
-        "height": "use_screen_one_half",
-        "padding": false,
-        "borders": false,
-        "wrapper": false
       }
     }
   },
@@ -298,7 +318,7 @@
     "165721122473f31dd3",
     "16572116152261fb1f",
     "16572116970d0ae722",
-    "165721210065838906",
-    "165721225089e23527"
+    "165721225089e23527",
+    "165721210065838906"
   ]
 }
