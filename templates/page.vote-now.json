@@ -2,11 +2,82 @@
   "sections": {
     "main": {
       "type": "page",
+      "disabled": true,
       "settings": {
+        "kicker": "",
+        "show_title": true,
+        "show_content": true,
+        "text_size": 2,
+        "align_text": "text-left",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "166091874421f6b209": {
+      "type": "section-hero",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/VOTING_IS_OPEN.gif",
+        "mobile_image": "shopify:\/\/shop_images\/VOTING_IS_OPEN.gif",
+        "bg_position": "center-center",
+        "height": "use_screen_three_quarters",
+        "overlay_opacity": 0,
+        "overlay_color": "#000",
+        "kicker": "",
+        "title": "",
+        "richtext": "",
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "link_text": "",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "btn"
+      }
+    },
+    "166091884810eb4a5c": {
+      "type": "section-custom-content",
+      "blocks": {
+        "2060f51e-8141-4176-b559-ae10ed39ca66": {
+          "type": "text",
+          "settings": {
+            "kicker": "VOTING ENDS AUGUST 24TH",
+            "title": "",
+            "text": "<p>It's up to you to tell us which Everyday Mother cover designs you want to see for sale. <em><strong>Pick your two favorite below.<\/strong><\/em> Winners will be announced on Monday, August 29th. Sign up to <a href=\"\/pages\/newsletter\" target=\"_blank\" title=\"Newsletter Sign-Up\">our newsletter<\/a> to find out winners, and to place a pre-order on winning designs.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-center",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--link",
+            "text_color": "text--neutral",
+            "bg_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "2060f51e-8141-4176-b559-ae10ed39ca66"
+      ],
+      "settings": {
+        "height": "use_screen_one_half",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "1660919220e8e8a518": {
+      "type": "section-html",
+      "settings": {
+        "html": "<div data-tf-widget=\"AUOJrzxm\" data-tf-iframe-props=\"title=EM Cover 2022 Finalists\" data-tf-medium=\"snippet\" style=\"width:100%;height:400px;\"><\/div><script src=\"\/\/embed.typeform.com\/next\/embed.js\"><\/script>",
+        "full_width": true
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "166091874421f6b209",
+    "166091884810eb4a5c",
+    "1660919220e8e8a518"
   ]
 }
