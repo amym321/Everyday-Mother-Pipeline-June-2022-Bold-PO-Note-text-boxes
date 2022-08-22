@@ -76,19 +76,26 @@
         "height": "use_image"
       }
     },
+    "16611834888e041d23": {
+      "type": "section-html",
+      "settings": {
+        "html": "<button data-tf-slider=\"AUOJrzxm\" data-tf-width=\"550\" data-tf-iframe-props=\"title=EM Cover 2022 Finalists\" data-tf-medium=\"snippet\" style=\"all:unset;font-family:Helvetica,Arial,sans-serif;display:inline-block;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background-color:#000000;color:#FFFFFF;font-size:20px;border-radius:0px;padding:0 33px;font-weight:bold;height:50px;cursor:pointer;line-height:50px;text-align:center;margin:0;text-decoration:none;\">VOTE NOW<\/button><script src=\"\/\/embed.typeform.com\/next\/embed.js\"><\/script>",
+        "full_width": true
+      }
+    },
     "16593620308cb6d9ae": {
       "type": "section-announcement",
       "blocks": {
         "16593620306b202eb9-0": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>CALLING ALL ARTISTS | <\/strong><a href=\"https:\/\/theeverydaymother.com\/pages\/participate\" target=\"_blank\" title=\"https:\/\/theeverydaymother.com\/pages\/participate\"><em>2022 Artist Cover Competition is happening now!<\/em><\/a><\/p>"
+            "text": "<p><strong>VOTE NOW |<\/strong><em> <\/em><a href=\"\/pages\/vote-now\" target=\"_blank\" title=\"Vote Now 2022 Artist Cover\"><em>tell us which covers to sell next<\/em><\/a><\/p>"
           }
         },
         "fe66c8f3-3544-4f1f-8db4-a6e38f90b367": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>HELP SPREAD THE WORD<\/strong> |<em> <\/em><a href=\"https:\/\/www.instagram.com\/p\/Cgt_4sEgjvx\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/p\/Cgt_4sEgjvx\/\"><em>Tag your favorite artist on IG<\/em><\/a><\/p>"
+            "text": "<p><strong>VOTE ON IG<\/strong> |<em> <\/em><a href=\"https:\/\/www.instagram.com\/p\/Cgt_4sEgjvx\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/p\/Cgt_4sEgjvx\/\"><em>Visit our official IG polling post<\/em><\/a><\/p>"
           }
         }
       },
@@ -350,6 +357,7 @@
   "order": [
     "1655140486c35b975d",
     "16549681707c591f37",
+    "16611834888e041d23",
     "16593620308cb6d9ae",
     "tabs",
     "16549731563ba9b336",
