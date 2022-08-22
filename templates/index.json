@@ -1,12 +1,5 @@
 {
   "sections": {
-    "1655140486c35b975d": {
-      "type": "section-html",
-      "settings": {
-        "html": "<script>\n  (function(w, d, t, h, s, n) {\n    w.FlodeskObject = n;\n    var fn = function() {\n      (w[n].q = w[n].q || []).push(arguments);\n    };\n    w[n] = w[n] || fn;\n    var f = d.getElementsByTagName(t)[0];\n    var v = '?v=' + Math.floor(new Date().getTime() \/ (120 * 1000)) * 60;\n    var sm = d.createElement(t);\n    sm.async = true;\n    sm.type = 'module';\n    sm.src = h + s + '.mjs' + v;\n    f.parentNode.insertBefore(sm, f);\n    var sn = d.createElement(t);\n    sn.async = true;\n    sn.noModule = true;\n    sn.src = h + s + '.js' + v;\n    f.parentNode.insertBefore(sn, f);\n  })(window, document, 'script', 'https:\/\/assets.flodesk.com', '\/universal', 'fd');\n<\/script>\n<script>\n  window.fd('form', {\n    formId: '62013cec60ada4164ea71114'\n  });\n<\/script>",
-        "full_width": true
-      }
-    },
     "16549681707c591f37": {
       "type": "section-slideshow",
       "blocks": {
@@ -74,6 +67,13 @@
         "autoplay": true,
         "autoplay_speed": 5,
         "height": "use_image"
+      }
+    },
+    "1655140486c35b975d": {
+      "type": "section-html",
+      "settings": {
+        "html": "<button data-tf-popup=\"AUOJrzxm\" data-tf-open=\"load\" data-tf-auto-close data-tf-iframe-props=\"title=EM Cover 2022 Finalists\" data-tf-medium=\"snippet\" style=\"all:unset;font-family:Helvetica,Arial,sans-serif;display:inline-block;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background-color:#000000;color:#FFFFFF;font-size:20px;border-radius:0px;padding:0 33px;font-weight:bold;height:50px;cursor:pointer;line-height:50px;text-align:center;margin:0;text-decoration:none;\">VOTE FOR OUR NEXT DESIGN<\/button><script src=\"\/\/embed.typeform.com\/next\/embed.js\"><\/script>",
+        "full_width": true
       }
     },
     "16593620308cb6d9ae": {
@@ -348,8 +348,8 @@
     }
   },
   "order": [
-    "1655140486c35b975d",
     "16549681707c591f37",
+    "1655140486c35b975d",
     "16593620308cb6d9ae",
     "tabs",
     "16549731563ba9b336",
