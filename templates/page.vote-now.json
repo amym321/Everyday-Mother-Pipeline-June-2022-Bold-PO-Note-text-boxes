@@ -18,8 +18,8 @@
     "166091874421f6b209": {
       "type": "section-hero",
       "settings": {
-        "image": "shopify:\/\/shop_images\/VOTING_IS_OPEN.gif",
-        "mobile_image": "shopify:\/\/shop_images\/VOTING_IS_OPEN_2500_x_1302_px.gif",
+        "image": "shopify:\/\/shop_images\/Winners_Tomorrow.gif",
+        "mobile_image": "shopify:\/\/shop_images\/Winners_Tomorrow2.gif",
         "bg_position": "center-center",
         "height": "use_image",
         "overlay_opacity": 0,
@@ -35,17 +35,29 @@
         "button_style": "btn"
       }
     },
-    "1660919220e8e8a518": {
-      "type": "section-html",
+    "166144156938d516cd": {
+      "type": "section-gallery-text",
+      "blocks": {
+        "166144156956613052-0": {
+          "type": "text",
+          "settings": {
+            "title": "WINNER ANNOUNCEMENT",
+            "text": "<p>Winners will be announced, <a href=\"https:\/\/instagram.com\/everydaymother\" target=\"_blank\" title=\"https:\/\/instagram.com\/everydaymother\">LIVE on IG<\/a>, August 26th at noon EST. <\/p><p><\/p><p><a href=\"\/collections\/artist-covers\" title=\"Limited Edition Art Covers\">Presales will open on Monday, August 29th.<\/a><\/p>",
+            "text_align": "text-center"
+          }
+        }
+      },
+      "block_order": [
+        "166144156956613052-0"
+      ],
       "settings": {
-        "html": "<div data-tf-widget=\"AUOJrzxm\" data-tf-iframe-props=\"title=EM Cover 2022 Finalists\" data-tf-medium=\"snippet\" style=\"width:100%;height:400px;\"><\/div><script src=\"\/\/embed.typeform.com\/next\/embed.js\"><\/script>",
-        "full_width": true
+        "bg": "palette--light bg--neutral"
       }
     }
   },
   "order": [
     "main",
     "166091874421f6b209",
-    "1660919220e8e8a518"
+    "166144156938d516cd"
   ]
 }
