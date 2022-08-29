@@ -69,6 +69,25 @@
         "height": "use_image"
       }
     },
+    "1654971576518e44b9": {
+      "type": "section-gallery-text",
+      "blocks": {
+        "1654971576db2eb18c-0": {
+          "type": "text",
+          "settings": {
+            "title": "BABY TRACKING MADE BEAUTIFULLY EASY",
+            "text": "<p><em>Having a baby is overwhelming, keeping track of #allthethings isn't. <br\/>The Everyday Mother will keep you organized and confident,<br\/>by helping you track each feed, nap, bath, and memorable five-star poop.<\/em><\/p><p><a href=\"\/collections\/all-6-month-trackers\" title=\"All 6 Month Trackers\"><em>Shop 6-month baby tracking books now<\/em><\/a><\/p>",
+            "text_align": "text-center"
+          }
+        }
+      },
+      "block_order": [
+        "1654971576db2eb18c-0"
+      ],
+      "settings": {
+        "bg": "palette--light bg--neutral"
+      }
+    },
     "tabs": {
       "type": "section-collection-tabs",
       "blocks": {
@@ -271,25 +290,6 @@
         "show_view_all": true
       }
     },
-    "1654971576518e44b9": {
-      "type": "section-gallery-text",
-      "blocks": {
-        "1654971576db2eb18c-0": {
-          "type": "text",
-          "settings": {
-            "title": "BABY TRACKING MADE BEAUTIFULLY EASY",
-            "text": "<p><em>Having a baby is overwhelming, keeping track of #allthethings isn't. <br\/>The Everyday Mother will keep you organized and confident,<br\/>by helping you track each feed, nap, bath, and memorable five-star poop.<\/em><\/p><p><a href=\"\/collections\/all-6-month-trackers\" title=\"All 6 Month Trackers\"><em>Shop 6-month baby tracking books now<\/em><\/a><\/p>",
-            "text_align": "text-center"
-          }
-        }
-      },
-      "block_order": [
-        "1654971576db2eb18c-0"
-      ],
-      "settings": {
-        "bg": "palette--light bg--neutral"
-      }
-    },
     "165497747454211acb": {
       "type": "section-gallery",
       "blocks": {
@@ -316,11 +316,11 @@
   },
   "order": [
     "16549681707c591f37",
+    "1654971576518e44b9",
     "tabs",
     "16549731563ba9b336",
     "cols",
     "product-grid",
-    "1654971576518e44b9",
     "165497747454211acb"
   ]
 }
