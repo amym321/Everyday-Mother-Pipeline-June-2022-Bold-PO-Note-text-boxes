@@ -93,8 +93,8 @@
       ],
       "settings": {
         "title": "",
-        "grid": 3,
-        "limit": 6,
+        "grid": 4,
+        "limit": 8,
         "bg": "palette--light bg--neutral"
       }
     },
