@@ -30,10 +30,10 @@
             "overlay_color": "#ffffff",
             "kicker": "",
             "title": "",
-            "richtext": "",
+            "richtext": "<p><em>a must-have for<br\/>all new parents<\/em><\/p>",
             "text_align": "align--middle-center",
-            "text_color": "text--white",
-            "link_text": "",
+            "text_color": "text--black",
+            "link_text": "get the essentials",
             "link": "shopify:\/\/collections\/all-6-month-trackers",
             "button_color": "btn--white",
             "button_style": "btn"
