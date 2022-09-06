@@ -6,10 +6,10 @@
         "7d657c65-e6dc-4304-87a6-de9cc4925c53": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Header-Banner-Everyday-Mother-Baby-Tracking-Log-Book-1-04.jpg",
+            "image": "shopify:\/\/shop_images\/Header-Banner-Everyday-Mother-Baby-Tracking-Log-Book-1.jpg",
             "bg_position": "center-center",
             "overlay_opacity": 0,
-            "overlay_color": "#000",
+            "overlay_color": "#000000",
             "kicker": "",
             "title": "10% off",
             "richtext": "<p><em>Limited Edition Covers<\/em><\/p>",
