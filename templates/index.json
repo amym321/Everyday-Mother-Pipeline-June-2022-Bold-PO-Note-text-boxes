@@ -3,6 +3,24 @@
     "16549681707c591f37": {
       "type": "section-slideshow",
       "blocks": {
+        "7d657c65-e6dc-4304-87a6-de9cc4925c53": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Header-Banner-Everyday-Mother-Baby-Tracking-Log-Book-1-04.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "kicker": "",
+            "title": "10% off",
+            "richtext": "<p><em>Limited Edition Covers<\/em><\/p>",
+            "text_align": "align--middle-center",
+            "text_color": "text--black",
+            "link_text": "Pre-Order Now",
+            "link": "shopify:\/\/collections\/artist-covers",
+            "button_color": "btn--primary",
+            "button_style": "btn"
+          }
+        },
         "165496817096bec73c-0": {
           "type": "image",
           "settings": {
@@ -59,6 +77,7 @@
         }
       },
       "block_order": [
+        "7d657c65-e6dc-4304-87a6-de9cc4925c53",
         "165496817096bec73c-0",
         "165496817096bec73c-1",
         "aa6c8725-8c75-48b6-a0fc-714cba1211c5"
