@@ -48,12 +48,12 @@
             "overlay_color": "#ffffff",
             "kicker": "",
             "title": "",
-            "richtext": "",
+            "richtext": "<p><em>easily track baby's feeds,<br\/>diapers, sleep, wellness,<br\/>and more<\/em><\/p>",
             "text_align": "align--middle-center",
             "text_color": "text--white",
-            "link_text": "",
+            "link_text": "start tracking",
             "link": "shopify:\/\/collections\/all-6-month-trackers",
-            "button_color": "btn--white",
+            "button_color": "btn--secondary",
             "button_style": "btn"
           }
         }
