@@ -12,12 +12,12 @@
             "overlay_color": "#ffffff",
             "kicker": "",
             "title": "",
-            "richtext": "",
+            "richtext": "<p><em>daily baby tracking journals<\/em><\/p>",
             "text_align": "align--middle-center",
-            "text_color": "text--white",
-            "link_text": "",
+            "text_color": "text--black",
+            "link_text": "SHOP NOW",
             "link": "shopify:\/\/collections\/all-6-month-trackers",
-            "button_color": "btn--white",
+            "button_color": "btn--primary",
             "button_style": "btn"
           }
         },
