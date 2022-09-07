@@ -270,7 +270,7 @@
       "settings": {
         "full_width": false,
         "padding": true,
-        "scale_image": true,
+        "scale_image": false,
         "aspect_ratio": 1,
         "bg": "palette--light bg--neutral"
       }
