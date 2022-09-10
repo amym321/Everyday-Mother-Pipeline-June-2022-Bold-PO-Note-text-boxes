@@ -41,11 +41,11 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/AndreaCastek_Headshot.jpg",
+            "image": "shopify:\/\/shop_images\/1_7f5cad3b-c113-4bfa-b5c1-ed8742a4dd6d.jpg",
             "bg_position": "center-center",
-            "title": "ANDREA CASTEK",
-            "text": "<p>Andrea won first place in The Everyday Mother's 2021 Cover Design Contest. You can <a href=\"\/products\/andrea-castek-x-everyday-mother-original-6-month-tracker-book-limited-edition\" title=\"Andrea Castek x Everyday Mother: Original 6 Month Tracker Book (Limited Edition)\">shop her winning design here.<\/a><\/p><p>Instagram: <a href=\"https:\/\/instagram.com\/andreacastek\" target=\"_blank\" title=\"https:\/\/instagram.com\/andreacastek\">@andreacastek<\/a><br\/>Website: <a href=\"https:\/\/www.andreacernin.com\/\" target=\"_blank\" title=\"https:\/\/www.andreacernin.com\/\">andreacastek.com<\/a><\/p>",
-            "button_label": "SHOP ANDREA'S BOOKS",
+            "title": "Angelica Venegas",
+            "text": "<p>Angélica, our 2022 First Place Winner, is an Illustrator and Designer based in Santiago de Chile, in South America. She draws her inspiration from flowers, nature, and the world of children.<\/p><p><a href=\"https:\/\/www.instagram.com\/angelicavenegas_design\/?hl=en\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/angelicavenegas_design\/?hl=en\"><em>Instagram<\/em><\/a> \/\/ <a href=\"https:\/\/www.angelicavenegas.com\/\" target=\"_blank\" title=\"https:\/\/www.angelicavenegas.com\/\"><em>Website<\/em><\/a><\/p>",
+            "button_label": "SHOP ANGELICA'S BOOK",
             "button_link": "shopify:\/\/products\/andrea-castek-x-everyday-mother-original-6-month-tracker-book-limited-edition",
             "enable_video": false,
             "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
@@ -55,12 +55,12 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/becky_nimoy.jpg",
+            "image": "shopify:\/\/shop_images\/2.jpg",
             "bg_position": "center-center",
-            "title": "Becky Nimoy",
-            "text": "<p>Becky is an artist and illustrator, and won second place in The Everyday Mother's 2021 Cover Design Contest.<\/p><p>Instagram: <a href=\"https:\/\/www.instagram.com\/becky_nimoy_stationery\/?hl=en\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/becky_nimoy_stationery\/?hl=en\">@becky_nimoy_stationery<\/a><\/p>",
-            "button_label": "shop becky's books",
-            "button_link": "shopify:\/\/products\/becky-nimoy-x-everyday-mother-limited-edition-perfectly-imperfect",
+            "title": "Viddhi Saschit",
+            "text": "<p>Viddhi Saschit is the founder of Colour and Joy. She is a multi-passionate artist, surface pattern designer, entrepreneur, coach and author. It's her mission to share joy through her colorful designs.<\/p><p><a href=\"https:\/\/www.instagram.com\/viddhi.saschit\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/viddhi.saschit\/\"><em>Instagram<\/em><\/a><em> \/\/ <\/em><a href=\"https:\/\/www.colourandjoy.in\/\" target=\"_blank\" title=\"https:\/\/www.colourandjoy.in\/\"><em>Website<\/em><\/a><\/p>",
+            "button_label": "shop Viddhi's book",
+            "button_link": "shopify:\/\/collections\/artist-covers",
             "enable_video": false,
             "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
           }
@@ -69,12 +69,12 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Daisy_Rizzo_-_bio_photo.jpg",
+            "image": "shopify:\/\/shop_images\/3.jpg",
             "bg_position": "center-center",
-            "title": "Pixel and Hank",
-            "text": "<p>Daisy Rizzo is the artist behind Pixel and Hank, as well as the third place winner in The Everyday Mother's 2021 Cover Design Contest. <\/p><p>Instagram: <a href=\"https:\/\/instagram.com\/pixelandhank\" target=\"_blank\" title=\"https:\/\/instagram.com\/pixelandhank\">@pixelandhank<\/a><\/p>",
-            "button_label": "SHOP DAISY'S BOOKS",
-            "button_link": "shopify:\/\/collections\/all",
+            "title": "Jamie Alexander",
+            "text": "<p>Jamie Alexander is a surface designer and illustrator from Detroit, Michigan currently based in Toulouse, France. She is inspired by her travels, social issues, floral elements, storytelling and joyful colors.<\/p><p><a href=\"https:\/\/www.instagram.com\/jamiealexanderart\/?hl=en\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/jamiealexanderart\/?hl=en\"><em>Instagram<\/em><\/a><em> \/\/ <\/em><a href=\"https:\/\/www.jamiealexander.net\/\" target=\"_blank\" title=\"https:\/\/www.jamiealexander.net\/\"><em>Website<\/em><\/a><\/p>",
+            "button_label": "SHOP Jamie's BOOK",
+            "button_link": "shopify:\/\/collections\/artist-covers",
             "enable_video": false,
             "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
           }
@@ -83,12 +83,12 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/ksmith_voyage2.jpg",
+            "image": "shopify:\/\/shop_images\/4.jpg",
             "bg_position": "center-center",
-            "title": "kristen smith",
-            "text": "<p>Kristen is the winner of 2021's Founder's Choice Award. Her design was personally selected by our founder, Jackie.<\/p><p>Instagram: <a href=\"https:\/\/instagram.com\/kristensmithdesign\" target=\"_blank\" title=\"https:\/\/instagram.com\/kristensmithdesign\">@kristensmithdesign<\/a><br\/>Website: <a href=\"https:\/\/kris10smith.com\" target=\"_blank\" title=\"https:\/\/kris10smith.com\">kris10smith.com<\/a><\/p>",
-            "button_label": "Shop Kristen's Books",
-            "button_link": "shopify:\/\/collections\/all",
+            "title": "Jenni Got",
+            "text": "<p>Jennifer Gottleber is a surface pattern designer from Fort Worth, TX. She loves a classic neutral look, but knows we all need some color in our lives! She is a mom, wife, and a former elementary school teacher. <\/p><p><a href=\"https:\/\/www.instagram.com\/jenni_got\/?hl=en\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/jenni_got\/?hl=en\"><em>Instagram<\/em><\/a><em> \/\/ <\/em><a href=\"http:\/\/www.jennigot.com\/\" target=\"_blank\" title=\"http:\/\/www.jennigot.com\/\"><em>Website<\/em><\/a><\/p>",
+            "button_label": "Shop Jenni's Books",
+            "button_link": "shopify:\/\/collections\/artist-covers",
             "enable_video": false,
             "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
           }
@@ -101,10 +101,10 @@
         "70b03cc6-13ce-456f-b96b-7bb05f03b300"
       ],
       "settings": {
-        "title": "",
+        "title": "MEET OUR 2022 LIMITED EDITION ARTISTS & WINNERS",
         "bg": "palette--light bg--neutral",
         "align_text": "text-center",
-        "scale_image": true,
+        "scale_image": false,
         "aspect_ratio": 1
       }
     },
@@ -124,6 +124,56 @@
         "team-5-0"
       ],
       "settings": {
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "1662818022ffcdebba": {
+      "type": "section-gallery",
+      "blocks": {
+        "1662818022daa42470-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5.jpg",
+            "bg_position": "center-center",
+            "link": ""
+          }
+        },
+        "1662818022daa42470-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6.jpg",
+            "bg_position": "center-center",
+            "link": ""
+          }
+        },
+        "1662818022daa42470-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/7.jpg",
+            "bg_position": "center-center",
+            "link": ""
+          }
+        },
+        "b8bc3a11-2e72-43cc-9ba0-9f1e6b6047e0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8.jpg",
+            "bg_position": "center-center",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1662818022daa42470-0",
+        "1662818022daa42470-1",
+        "1662818022daa42470-2",
+        "b8bc3a11-2e72-43cc-9ba0-9f1e6b6047e0"
+      ],
+      "settings": {
+        "full_width": true,
+        "padding": true,
+        "scale_image": false,
+        "aspect_ratio": 1,
         "bg": "palette--light bg--neutral"
       }
     },
@@ -249,7 +299,7 @@
         "16551596835068c21b-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/AndreaBio-x-Everyday-Mother.png",
+            "image": "shopify:\/\/shop_images\/WhiteBox.jpg",
             "bg_position": "center-center",
             "link": ""
           }
@@ -257,6 +307,7 @@
         "c4534bb2-f3ba-40e7-8d59-a2291a71cba5": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/WhiteBox.jpg",
             "bg_position": "center-center",
             "link": ""
           }
@@ -332,6 +383,7 @@
     "main",
     "team-0",
     "team-5",
+    "1662818022ffcdebba",
     "team-6",
     "16551575322fca3156",
     "1655159683b39c6461",
