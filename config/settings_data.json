@@ -136,7 +136,7 @@
             "type": "newsletter",
             "settings": {
               "richtext": "<p>Join to get special offers, free giveaways, and once-in-a-lifetime deals.<\/p>",
-              "accordion_default": ""
+              "accordion_default": "accordion-is-open"
             }
           }
         },
