@@ -41,8 +41,8 @@
     "cart_shipping_enable": false,
     "cart_notes_enable": true,
     "cart_continue_browsing": "shopify:\/\/collections",
-    "show_free_shipping_message": false,
-    "message": "LAST CHANCE FOR 10% OFF LIMITED EDITION BOOKS",
+    "show_free_shipping_message": true,
+    "message": "SPENT ||AMOUNT|| FOR FREE SHIPPING",
     "free_shipping_limit": "30",
     "cart_show_additional_buttons": true,
     "social_facebook_link": "https:\/\/facebook.com\/everydaymother",
@@ -59,11 +59,10 @@
         "blocks": {
           "announce_text": {
             "type": "text",
-            "disabled": true,
             "settings": {
-              "text": "<p><strong>Make an announcement<\/strong> | More info<\/p>",
+              "text": "<p><a href=\"\/collections\/artist-covers\" title=\"Limited Edition Art Covers\"><strong>LAST CHANCE FOR 1% OFF LIMITED EDITION BOOKS<\/strong> | <em>Shop Now<\/em><\/a><\/p>",
               "target_url_enabled": false,
-              "target_url": "",
+              "target_url": "shopify:\/\/collections\/artist-covers",
               "target_referrer_enabled": false,
               "target_referrer": "",
               "target_device_enabled": false,
