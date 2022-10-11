@@ -3,24 +3,6 @@
     "16549681707c591f37": {
       "type": "section-slideshow",
       "blocks": {
-        "7d657c65-e6dc-4304-87a6-de9cc4925c53": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/The_Everyday_Mother_Pediatrician_Recommended_Newborn_Baby_Tracking_Journal4.jpg",
-            "bg_position": "center-center",
-            "overlay_opacity": 0,
-            "overlay_color": "#000000",
-            "kicker": "",
-            "title": "",
-            "richtext": "",
-            "text_align": "align--middle-center",
-            "text_color": "text--black",
-            "link_text": "",
-            "link": "shopify:\/\/collections\/artist-covers",
-            "button_color": "btn--primary",
-            "button_style": "btn"
-          }
-        },
         "165496817096bec73c-0": {
           "type": "image",
           "settings": {
@@ -39,19 +21,37 @@
             "button_style": "btn"
           }
         },
+        "7d657c65-e6dc-4304-87a6-de9cc4925c53": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/The_Everyday_Mother_Pediatrician_Recommended_Newborn_Baby_Tracking_Journal4.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--black",
+            "link_text": "",
+            "link": "shopify:\/\/collections\/artist-covers",
+            "button_color": "btn--primary",
+            "button_style": "btn"
+          }
+        },
         "165496817096bec73c-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Header_Banner_Everyday_Mother_Baby_Tracking_Log_Book_1-02.png",
+            "image": "shopify:\/\/shop_images\/The_Everyday_Mother_Pediatrician_Recommended_Newborn_Baby_Tracking_Journal2.jpg",
             "bg_position": "center-center",
             "overlay_opacity": 0,
             "overlay_color": "#ffffff",
             "kicker": "",
             "title": "",
-            "richtext": "<p><em>a must-have for<br\/>all new parents<\/em><\/p>",
+            "richtext": "",
             "text_align": "align--middle-center",
             "text_color": "text--black",
-            "link_text": "get the essentials",
+            "link_text": "",
             "link": "shopify:\/\/collections\/all-6-month-trackers",
             "button_color": "btn--white",
             "button_style": "btn"
@@ -77,8 +77,8 @@
         }
       },
       "block_order": [
-        "7d657c65-e6dc-4304-87a6-de9cc4925c53",
         "165496817096bec73c-0",
+        "7d657c65-e6dc-4304-87a6-de9cc4925c53",
         "165496817096bec73c-1",
         "aa6c8725-8c75-48b6-a0fc-714cba1211c5"
       ],
