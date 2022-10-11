@@ -60,16 +60,16 @@
         "aa6c8725-8c75-48b6-a0fc-714cba1211c5": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Header_Banner_Everyday_Mother_Baby_Tracking_Log_Book_1-03.png",
+            "image": "shopify:\/\/shop_images\/The_Everyday_Mother_Pediatrician_Recommended_Newborn_Baby_Tracking_Journal3.jpg",
             "bg_position": "center-center",
             "overlay_opacity": 0,
             "overlay_color": "#ffffff",
             "kicker": "",
             "title": "",
-            "richtext": "<p><em>easily track baby's feeds,<br\/>diapers, sleep, wellness,<br\/>and more<\/em><\/p>",
+            "richtext": "",
             "text_align": "align--middle-center",
             "text_color": "text--white",
-            "link_text": "start tracking",
+            "link_text": "",
             "link": "shopify:\/\/collections\/all-6-month-trackers",
             "button_color": "btn--secondary",
             "button_style": "btn"
