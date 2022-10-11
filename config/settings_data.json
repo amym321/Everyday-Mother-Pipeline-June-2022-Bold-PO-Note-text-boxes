@@ -42,7 +42,7 @@
     "cart_notes_enable": true,
     "cart_continue_browsing": "shopify:\/\/collections",
     "show_free_shipping_message": true,
-    "message": "Spend ||amount|| more for free shipping",
+    "message": "Spend ||amount|| more for free shipping \\\\ LAST CHANCE FOR 10% OFF LIMITED EDITION BOOKS",
     "free_shipping_limit": "30",
     "cart_show_additional_buttons": true,
     "social_facebook_link": "https:\/\/facebook.com\/everydaymother",
@@ -89,7 +89,7 @@
         ],
         "settings": {
           "text_size": 3,
-          "layout": "slider",
+          "layout": "marquee",
           "speed": 5
         }
       },
