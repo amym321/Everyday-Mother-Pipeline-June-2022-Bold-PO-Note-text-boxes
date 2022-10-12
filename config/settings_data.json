@@ -60,7 +60,7 @@
           "announce_text": {
             "type": "text",
             "settings": {
-              "text": "<p><a href=\"\/collections\/artist-covers\" title=\"Limited Edition Art Covers\"><strong>LAST CHANCE FOR 1% OFF LIMITED EDITION BOOKS<\/strong> | <em>Shop Now<\/em><\/a><\/p>",
+              "text": "<p><a href=\"\/collections\/artist-covers\" title=\"Limited Edition Art Covers\"><strong>NOW SHIPPING LIMITED EDITION BOOKS<\/strong> | <em>Shop Now<\/em><\/a><\/p>",
               "target_url_enabled": false,
               "target_url": "shopify:\/\/collections\/artist-covers",
               "target_referrer_enabled": false,
