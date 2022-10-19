@@ -47,6 +47,8 @@
     "cart_show_additional_buttons": true,
     "social_facebook_link": "https:\/\/facebook.com\/everydaymother",
     "social_instagram_link": "https:\/\/instagram.com\/everydaymother",
+    "custom_social_icon_1": "shopify:\/\/shop_images\/Spotify_Icon_b2b00545-e23d-4a27-b141-dc32393a5385.png",
+    "custom_social_link_1": "https:\/\/open.spotify.com\/playlist\/2Ki12gF9HZSbonesHcxvJY?si=ef374ad07bae4fb3&pt=9e3ab21e17b057b4d01d5b3003dbf2b3",
     "favicon": "shopify:\/\/shop_images\/EverydayMotherFavicon.jpg",
     "checkout_logo_image": "shopify:\/\/shop_images\/2022WebsiteLogo.png",
     "checkout_accent_color": "#fce358",
