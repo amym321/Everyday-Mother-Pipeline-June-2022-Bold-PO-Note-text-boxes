@@ -43,7 +43,7 @@
           "type": "description",
           "settings": {
             "read_more": true,
-            "enable_description": true,
+            "enable_description": false,
             "icon_description": "",
             "style": "tabs",
             "title_1": "About",
