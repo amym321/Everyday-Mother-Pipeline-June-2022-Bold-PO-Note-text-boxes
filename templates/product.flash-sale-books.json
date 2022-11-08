@@ -35,7 +35,6 @@
         },
         "f30cec28-263a-4902-be8e-ab76da7eac77": {
           "type": "upsell",
-          "disabled": true,
           "settings": {
             "product": "complete-bundle-all-add-on-pages"
           }
