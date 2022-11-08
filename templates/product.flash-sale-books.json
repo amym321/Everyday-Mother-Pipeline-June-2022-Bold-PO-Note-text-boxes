@@ -15,7 +15,9 @@
           "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/star-rating-badge\/a103faaf-2125-4b0e-89fa-de5149736723",
           "settings": {
             "use_metafields": true,
-            "sku_tagtype": "sku"
+            "sku_tagtype": "sku",
+            "is_featured_product": false,
+            "featured_product_handle": ""
           }
         },
         "form": {
@@ -34,7 +36,7 @@
         "f30cec28-263a-4902-be8e-ab76da7eac77": {
           "type": "upsell",
           "settings": {
-            "product": "add-gift-packaging"
+            "product": "complete-bundle-all-add-on-pages"
           }
         },
         "description": {
@@ -46,19 +48,19 @@
             "style": "tabs",
             "title_1": "About",
             "icon_name_1": "",
-            "raw_content_1": "<p>The Everyday Mother is a daily newborn baby log book for tracking feedings, breastfeeding, exclusive pumping, baby milestones, and more. Helps track newborn sleep schedule for easy sleep training. Wellness section for postpartum health tips. Diaper tracker, bath day checklist, and everything else you need to make newborn days easier to remember.<\/p>",
-            "title_2": "",
-            "icon_name_2": "",
-            "raw_content_2": "",
-            "title_3": "Shipping + Returns",
+            "raw_content_1": "<p>The Everyday Mother is a daily newborn baby log book for tracking feedings, sleep schedules, wellness for postpartum health, diaper tracker, bath day checklist, and more.<\/p><p><strong>PAGES: <\/strong>Approx. 6 months worth. Bright white paper, one double-sided pocket, 180 template pages, printed front & back<\/p><p><strong>SIZE:<\/strong> 8x5\", roughly .75\" thick<\/p><p><strong>COVER:<\/strong> Hard coverstock with white interior covers, gold foil on outside front cover, and corner protectors<\/p><p><strong>POCKET:<\/strong> A pocket is included to easily keep important papers<\/p><p><strong>SPIRAL: <\/strong>Gold\/bronze wire-o binding<\/p><p><em>**Ribbon and Gift tag shown in last picture is not included. <\/em><a href=\"\/products\/add-gift-packaging\" target=\"_blank\" title=\"Add Gift Packaging\"><em>Click here to make it a gift<\/em><\/a><em>**<\/em><\/p><p>Want a different color cover? <a href=\"https:\/\/theeverydaymother.com\/collections\/all-6-month-trackers\"><strong>Shop all of our 6 month Everyday Mother Books here.<\/strong><\/a><\/p>",
+            "title_2": "FLASH SALE DEETS",
+            "icon_name_2": "icon-star-rating",
+            "raw_content_2": "<p>There is only ONE OF EACH BOOK, once sold out, they will not be restocked.<\/p><p>Each book is hand drawn by our founder, Jackie Mangiolino, making them truly one-of-a-kind. <br\/><br\/>All other details and specs are the same as our original 6 month Everyday Mother books.<\/p>",
+            "title_3": "Shipping + Returns + FAQ",
             "icon_name_3": "",
-            "raw_content_3": "<p>All orders over $30 ship FREE, no code needed, using Media Mail Shipping. Media Mail takes approximately 7-10 business days. If you'd like a faster service, you may upgrade during checkout. We ship orders on Mondays & Thursdays. Processing time is not included in your shipping time.<\/p><p><\/p><p>If you are not 100% satisfied with your purchase, you will have 30 days to return\/exchange any non-customized item. <a href=\"https:\/\/theeverydaymother.com\/pages\/returns\">Full return policy available here<\/a>. Please contact hello@theeverydaymother.com and include your order number to start a return\/exchange.<\/p>",
+            "raw_content_3": "<p>All orders over $30 ship FREE, no code needed, using Media Mail Shipping. Media Mail takes approximately 7-10 business days. If you'd like a faster service, you may upgrade during checkout. We ship orders on Mondays & Wednesdays. Processing time is not included in your shipping time.<\/p><p><\/p><p>If you are not 100% satisfied with your purchase, you will have 30 days to return\/exchange any non-customized item. <a href=\"https:\/\/theeverydaymother.com\/pages\/returns\">Full return policy available here<\/a>. Please contact hello@theeverydaymother.com and include your order number to start a return\/exchange.<\/p><p><\/p><p>Need help? From how to insert pages & ribbons, to who can use The Everyday Mother, we've got you covered on our <a href=\"https:\/\/theeverydaymother.com\/pages\/faqs\" target=\"_blank\">FAQ Page<\/a>.<\/p>",
             "title_4": "Giving Back",
             "icon_name_4": "",
             "raw_content_4": "<p>n honor Jackie's micro-preemie son, who inspired The Everyday Mother, we donate 1 EM Mini to a local NICU for every 50 <a href=\"https:\/\/theeverydaymother.com\/collections\/all-6-month-trackers\">Everyday Mother books<\/a> sold. Read more of <a href=\"https:\/\/theeverydaymother.com\/pages\/our-story\">Jackie's story here<\/a>.<br\/><br\/>We also donate $1 for every Limited Edition book to a charity chosen by our winning artists. <a href=\"https:\/\/theeverydaymother.com\/pages\/our-artists\">Read about artist's charities here<\/a>.<\/p><p><br\/>We partner with ACDS for assembly of our products. ACDS is an organization that provides work experience for young adults with disabilities. <\/p>",
-            "title_5": "FAQ",
+            "title_5": "",
             "icon_name_5": "",
-            "raw_content_5": "<p>Need help? From how to insert pages & ribbons, to who can use The Everyday Mother, we've got you covered on our<a href=\"https:\/\/theeverydaymother.com\/pages\/faqs\" target=\"_blank\">FAQ Page<\/a>.<\/p>"
+            "raw_content_5": ""
           }
         }
       },
