@@ -32,19 +32,12 @@
             "countdown": 20,
             "info_page": ""
           }
-        },
-        "f30cec28-263a-4902-be8e-ab76da7eac77": {
-          "type": "upsell",
-          "settings": {
-            "product": "complete-bundle-all-add-on-pages"
-          }
         }
       },
       "block_order": [
         "title",
         "346266f2-8b7d-4447-8c0c-27a5c406e780",
-        "form",
-        "f30cec28-263a-4902-be8e-ab76da7eac77"
+        "form"
       ],
       "settings": {
         "image_width": "wide",
