@@ -51,6 +51,7 @@ bold-options.css version 6
 
 .bold_option_title,
 .bold_option_value_price {
+            color: #000000;
                 font-weight: normal;
         }
 
@@ -100,7 +101,6 @@ bold-options.css version 6
 .bold_option_element input,
 .bold_option_element select,
 .bold_option_element textarea {
-            color: #000000;
             height: auto;
 }
 
