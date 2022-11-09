@@ -46,13 +46,12 @@ bold-options.css version 6
 
 .bold_option_product_title {
             font-size: 18px;
-                                font-weight: bold;
-        margin-bottom: 20px;
+                            margin-bottom: 20px;
 }
 
 .bold_option_title,
 .bold_option_value_price {
-                font-weight: bold;
+                font-weight: normal;
         }
 
     .bold_option_dropdown .bold_option_element {
