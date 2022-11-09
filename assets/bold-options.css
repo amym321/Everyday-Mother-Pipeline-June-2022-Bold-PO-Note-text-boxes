@@ -51,7 +51,6 @@ bold-options.css version 6
 
 .bold_option_title,
 .bold_option_value_price {
-            color: #000000;
                 font-weight: normal;
         }
 
@@ -227,6 +226,7 @@ bold-options.css version 6
             }
 
 .bold_option_total span {
+            color: #000000;
     }
 
 /* Swatches styles */
