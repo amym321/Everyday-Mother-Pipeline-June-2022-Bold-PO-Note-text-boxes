@@ -3,32 +3,13 @@
     "16549681707c591f37": {
       "type": "section-slideshow",
       "blocks": {
-        "1ecc3505-e260-4c96-af9b-05f8199d03ac": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/6_copy.jpg",
-            "bg_position": "center-center",
-            "overlay_opacity": 0,
-            "overlay_color": "#ffffff",
-            "kicker": "",
-            "title": "",
-            "richtext": "",
-            "text_align": "align--middle-center",
-            "text_color": "text--white",
-            "link_text": "",
-            "link": "shopify:\/\/collections\/all-6-month-trackers",
-            "button_color": "btn--white",
-            "button_style": "btn"
-          }
-        },
         "7efa6e07-eaad-4a4b-a036-ee2605d6c01b": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/7_7b1b86ee-9484-436d-9b54-5a3e8f00ae96.jpg",
             "bg_position": "center-center",
             "overlay_opacity": 0,
-            "overlay_color": "#000",
+            "overlay_color": "#000000",
             "kicker": "",
             "title": "",
             "richtext": "",
@@ -114,7 +95,6 @@
         }
       },
       "block_order": [
-        "1ecc3505-e260-4c96-af9b-05f8199d03ac",
         "7efa6e07-eaad-4a4b-a036-ee2605d6c01b",
         "165496817096bec73c-0",
         "7d657c65-e6dc-4304-87a6-de9cc4925c53",
