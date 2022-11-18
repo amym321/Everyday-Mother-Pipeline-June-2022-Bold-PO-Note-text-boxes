@@ -38,7 +38,7 @@
     "product_grid_show_rating": false,
     "product_grid_show_rating_count": false,
     "cart_style": "compatible",
-    "cart_shipping_enable": false,
+    "cart_shipping_enable": true,
     "cart_notes_enable": true,
     "cart_continue_browsing": "shopify:\/\/collections",
     "show_free_shipping_message": true,
