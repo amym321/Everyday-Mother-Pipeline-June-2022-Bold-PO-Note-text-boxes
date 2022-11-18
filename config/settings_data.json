@@ -37,7 +37,7 @@
     "color_badge_text": "#000000",
     "product_grid_show_rating": false,
     "product_grid_show_rating_count": false,
-    "cart_style": "pop",
+    "cart_style": "compatible",
     "cart_shipping_enable": false,
     "cart_notes_enable": true,
     "cart_continue_browsing": "shopify:\/\/collections",
