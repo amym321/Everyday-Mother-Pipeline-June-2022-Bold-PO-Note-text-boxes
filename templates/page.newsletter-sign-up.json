@@ -50,12 +50,33 @@
         "product_recently_limit": 6,
         "product_recently_minimum": 3
       }
+    },
+    "1669838064b423e56a": {
+      "type": "apps",
+      "blocks": {
+        "f072034d-2df7-459f-9551-f3334bca173c": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": ""
+          }
+        }
+      },
+      "block_order": [
+        "f072034d-2df7-459f-9551-f3334bca173c"
+      ],
+      "settings": {
+        "width": "wrapper",
+        "height": "margin--medium",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral"
+      }
     }
   },
   "order": [
     "main",
     "16552194095a5e712c",
     "165521755739120aa6",
-    "1655219376e93a3c24"
+    "1655219376e93a3c24",
+    "1669838064b423e56a"
   ]
 }
