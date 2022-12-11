@@ -132,7 +132,7 @@
         "tab-0": {
           "type": "collection",
           "settings": {
-            "collection": "all-6-month-trackers",
+            "collection": "artist-covers",
             "title": "SELECT YOUR BOOK"
           }
         },
