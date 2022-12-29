@@ -43,7 +43,7 @@
     "cart_continue_browsing": "shopify:\/\/collections",
     "show_free_shipping_message": true,
     "message": "SPENT ||AMOUNT|| FOR FREE SHIPPING",
-    "free_shipping_limit": "30",
+    "free_shipping_limit": "50",
     "cart_show_additional_buttons": true,
     "social_facebook_link": "https:\/\/facebook.com\/everydaymother",
     "social_instagram_link": "https:\/\/instagram.com\/everydaymother",
