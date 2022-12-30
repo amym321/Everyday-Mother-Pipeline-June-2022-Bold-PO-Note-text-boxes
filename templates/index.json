@@ -3,6 +3,24 @@
     "16549681707c591f37": {
       "type": "section-slideshow",
       "blocks": {
+        "165496817096bec73c-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Website_Homepage_templates_1.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#ffffff",
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--black",
+            "link_text": "",
+            "link": "shopify:\/\/collections\/all-6-month-trackers",
+            "button_color": "btn--primary",
+            "button_style": "btn"
+          }
+        },
         "7efa6e07-eaad-4a4b-a036-ee2605d6c01b": {
           "type": "image",
           "settings": {
@@ -18,24 +36,6 @@
             "link_text": "",
             "link": "shopify:\/\/collections\/one-of-a-kind-flash-sale",
             "button_color": "btn--white",
-            "button_style": "btn"
-          }
-        },
-        "165496817096bec73c-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/The_Everyday_Mother_Pediatrician_Recommended_Newborn_Baby_Tracking_Journal1.jpg",
-            "bg_position": "center-center",
-            "overlay_opacity": 0,
-            "overlay_color": "#ffffff",
-            "kicker": "",
-            "title": "",
-            "richtext": "",
-            "text_align": "align--middle-center",
-            "text_color": "text--black",
-            "link_text": "",
-            "link": "shopify:\/\/collections\/all-6-month-trackers",
-            "button_color": "btn--primary",
             "button_style": "btn"
           }
         },
@@ -95,8 +95,8 @@
         }
       },
       "block_order": [
-        "7efa6e07-eaad-4a4b-a036-ee2605d6c01b",
         "165496817096bec73c-0",
+        "7efa6e07-eaad-4a4b-a036-ee2605d6c01b",
         "7d657c65-e6dc-4304-87a6-de9cc4925c53",
         "165496817096bec73c-1",
         "aa6c8725-8c75-48b6-a0fc-714cba1211c5"
