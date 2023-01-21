@@ -11,25 +11,6 @@
             "show_rating_count": true
           }
         },
-        "0ed2008a-eacd-4221-84c8-1ea8f76b4d12": {
-          "type": "text",
-          "settings": {
-            "title": "<p>Easily Track <\/p><p>dsah'fdsa<\/p><p>fdahsj'<\/p>"
-          }
-        },
-        "form": {
-          "type": "form",
-          "settings": {
-            "variant_form": "auto",
-            "show_quantity": true,
-            "enable_payment_button": true,
-            "subscriptions_enable_selectors": false,
-            "show_remaining": true,
-            "show_remaining_style": "low",
-            "countdown": 20,
-            "info_page": ""
-          }
-        },
         "description": {
           "type": "description",
           "settings": {
@@ -53,16 +34,28 @@
             "icon_name_5": "",
             "raw_content_5": "<p>Need help? From how to insert pages & ribbons, to who can use The Everyday Mother, we've got you covered on our<a href=\"https:\/\/theeverydaymother.com\/pages\/faqs\" target=\"_blank\">FAQ Page<\/a>.<\/p>"
           }
+        },
+        "form": {
+          "type": "form",
+          "settings": {
+            "variant_form": "auto",
+            "show_quantity": true,
+            "enable_payment_button": true,
+            "subscriptions_enable_selectors": false,
+            "show_remaining": true,
+            "show_remaining_style": "low",
+            "countdown": 20,
+            "info_page": ""
+          }
         }
       },
       "block_order": [
         "title",
-        "0ed2008a-eacd-4221-84c8-1ea8f76b4d12",
-        "form",
-        "description"
+        "description",
+        "form"
       ],
       "settings": {
-        "image_width": "wide",
+        "image_width": "half",
         "align": "left",
         "product_breadcrumbs": true,
         "enable_video_looping": true,
@@ -115,7 +108,7 @@
       ],
       "settings": {
         "height": "use_screen_one_half",
-        "padding": true,
+        "padding": false,
         "borders": false,
         "wrapper": true
       }
@@ -124,7 +117,7 @@
       "type": "reviews",
       "disabled": true,
       "settings": {
-        "product_reviews_enable": false,
+        "product_reviews_enable": true,
         "bg": "palette--light bg--accent"
       }
     },
