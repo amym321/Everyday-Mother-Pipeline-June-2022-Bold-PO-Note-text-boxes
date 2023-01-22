@@ -7,12 +7,13 @@
           "type": "title",
           "settings": {
             "product_show_vendor": false,
-            "show_rating": false,
+            "show_rating": true,
             "show_rating_count": false
           }
         },
         "4904ec9a-1892-4dcc-840c-6e1a2018705c": {
           "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/star-rating-badge\/a103faaf-2125-4b0e-89fa-de5149736723",
+          "disabled": true,
           "settings": {
             "use_metafields": true,
             "sku_tagtype": "handle",
@@ -31,7 +32,7 @@
           "settings": {
             "variant_form": "auto",
             "show_quantity": true,
-            "enable_payment_button": true,
+            "enable_payment_button": false,
             "subscriptions_enable_selectors": false,
             "show_remaining": true,
             "show_remaining_style": "low",
