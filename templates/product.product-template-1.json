@@ -30,7 +30,7 @@
         "form": {
           "type": "form",
           "settings": {
-            "variant_form": "auto",
+            "variant_form": "dropdown",
             "show_quantity": true,
             "enable_payment_button": false,
             "subscriptions_enable_selectors": false,

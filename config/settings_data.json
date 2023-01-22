@@ -31,6 +31,8 @@
     "product_grid_style": "under",
     "image_hover_enable": true,
     "product_grid_image": "crop",
+    "swatches_enable": false,
+    "swatches_collection_enable": false,
     "badge_sale_discount": true,
     "badge_sale_type": "percentage",
     "color_badge": "#fce358",
