@@ -73,7 +73,7 @@
         "description"
       ],
       "settings": {
-        "image_width": "half",
+        "image_width": "narrow",
         "align": "left",
         "product_breadcrumbs": true,
         "enable_video_looping": true,
