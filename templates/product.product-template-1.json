@@ -7,8 +7,36 @@
           "type": "title",
           "settings": {
             "product_show_vendor": false,
-            "show_rating": true,
-            "show_rating_count": true
+            "show_rating": false,
+            "show_rating_count": false
+          }
+        },
+        "4904ec9a-1892-4dcc-840c-6e1a2018705c": {
+          "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/star-rating-badge\/a103faaf-2125-4b0e-89fa-de5149736723",
+          "settings": {
+            "use_metafields": true,
+            "sku_tagtype": "handle",
+            "is_featured_product": false,
+            "featured_product_handle": ""
+          }
+        },
+        "c2a840f0-37de-492d-aeeb-05ee2d766b1a": {
+          "type": "text",
+          "settings": {
+            "title": "<p><strong>THE MUST-HAVE BABY BOOK!<\/strong><\/p><p><strong>Easily Track Baby's:<\/strong><em> Feeds (template words for all feed methods), diapers, naps, milestones, wellness, notes, and more<br\/><\/em><strong>180 Pages: <\/strong><em>Approx 6 months for one baby, or 3 months if using for twins<\/em><\/p>"
+          }
+        },
+        "form": {
+          "type": "form",
+          "settings": {
+            "variant_form": "auto",
+            "show_quantity": true,
+            "enable_payment_button": true,
+            "subscriptions_enable_selectors": false,
+            "show_remaining": true,
+            "show_remaining_style": "low",
+            "countdown": 20,
+            "info_page": ""
           }
         },
         "description": {
@@ -34,25 +62,14 @@
             "icon_name_5": "",
             "raw_content_5": "<p>Need help? From how to insert pages & ribbons, to who can use The Everyday Mother, we've got you covered on our<a href=\"https:\/\/theeverydaymother.com\/pages\/faqs\" target=\"_blank\">FAQ Page<\/a>.<\/p>"
           }
-        },
-        "form": {
-          "type": "form",
-          "settings": {
-            "variant_form": "auto",
-            "show_quantity": true,
-            "enable_payment_button": true,
-            "subscriptions_enable_selectors": false,
-            "show_remaining": true,
-            "show_remaining_style": "low",
-            "countdown": 20,
-            "info_page": ""
-          }
         }
       },
       "block_order": [
         "title",
-        "description",
-        "form"
+        "4904ec9a-1892-4dcc-840c-6e1a2018705c",
+        "c2a840f0-37de-492d-aeeb-05ee2d766b1a",
+        "form",
+        "description"
       ],
       "settings": {
         "image_width": "half",
